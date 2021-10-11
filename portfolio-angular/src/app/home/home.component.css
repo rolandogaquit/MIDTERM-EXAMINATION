@@ -1,0 +1,12 @@
+fieldset{
+    height: 60px;
+    margin-top:50px;
+    border-radius: 5px;
+    background: lightblue;
+    border: 5px;
+    text-align: center;
+    }
+    img{
+        width: 100%;
+        padding-top: 10px;
+    }
